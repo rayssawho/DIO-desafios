@@ -1,0 +1,76 @@
+#DIO - Linux - Alguns Comandos
+
+Ex:
+* Descrição do Comando *
+comando
+
+----------------------------------------------
+
+* Lista diretórios e arquivos no diretório atual *
+ls
+
+* Lista diretórios e arquivos no diretório atual (detalhes) *
+ls -l
+
+* Lista outro diretório *
+ls dir
+
+* Histórico de comandos *
+history
+
+* Criar diretórios *
+mkdir
+
+* Muda o diretório atual *
+cd dir
+
+* Ir para o diretório raiz *
+cd /
+
+* Ir para o diretório pessoal *
+cd ~
+
+* Voltar para o diretório anterior * 
+cd ..
+
+* Arquivo de ajuda de um comando *
+--help
+
+* Mover arquivo/diretório ou renomear *
+mv 
+
+* Cria arquivo vazio *
+touch
+
+* Copia arquivos *
+cp
+
+* Remover diretórios *
+rmdir
+
+* Remover arquivos *
+rm
+
+* Limpar terminal *
+clear ou Ctrl L
+
+* Sair do terminal *
+exit ou Ctrl D
+
+* Reiniciar o Sistema *
+reboot
+
+* Finaliza a sessão do Sistema *
+logout
+
+* Adiciona novo usuário *
+adduser
+
+* Instalar pacotes *
+sudo apt install nomedopacote
+
+* Atualizar pacotes *
+sudo apt upgrade nomedopacote
+
+* Remover pacotes *
+sudo apt remove nomedopacote
