@@ -1,0 +1,32 @@
+#DIO - Git / Github - Revisão
+
+-- ------ Comandos úteis: ------ --
+
+Ex:
+-- Descrição do Comando --
+comando
+
+-- Criar um novo repositório GIT --
+git init
+
+-- Define configuração de usuário -- 
+git config
+git config --global user.email exemplo@gmail.com
+
+-- Começar o versionamento, adicionar arquivos ao índice --
+git add
+git add *
+git add -A
+git add .
+
+-- Criar o commit -- 
+git commit "mensagem do commit"
+
+-- Monitorar o status dos arquivos -- 
+git status
+
+-- Levar o código local para o repositório remoto --
+git push origin main
+
+-- Clonar um repositório --
+git clone
